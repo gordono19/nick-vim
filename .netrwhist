@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/nickjames/personal/fantasy_football_app/.idea'
+let g:netrw_dirhist_2='/Users/nickjames/Documents/MoveLoot/data_science/moveloot_cogs/.git'
+let g:netrw_dirhist_3='/Users/nickjames/.atom'
+let g:netrw_dirhist_4='/Users/nickjames/.ssh'
+let g:netrw_dirhist_5='/usr/local/share/jupyter/nbextensions/gdrive'
+let g:netrw_dirhist_6='/Users/nickjames/.ipython/profile_default'
+let g:netrw_dirhist_7='/Users/nickjames/.oh-my-zsh'
+let g:netrw_dirhist_8='/Users/nickjames/personal/Projects/insight/coding-challenge/tweet_input'
